@@ -1,3 +1,3 @@
 # gametheory
 
-A Prisoner's dilemma-esque game
+A Prisoner's dilemma game
